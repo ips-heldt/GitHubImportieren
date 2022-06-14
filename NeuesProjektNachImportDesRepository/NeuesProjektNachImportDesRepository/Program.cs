@@ -11,6 +11,7 @@ namespace NeuesProjektNachImportDesRepository
         static void Main(string[] args)
         {
             // Eine Änderung im neuen Zweig
+            // Weitere Änderung im neuen Zweig
         }
     }
 }
