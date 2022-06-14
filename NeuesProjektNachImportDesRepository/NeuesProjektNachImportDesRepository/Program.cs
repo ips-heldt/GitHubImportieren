@@ -10,7 +10,6 @@ namespace NeuesProjektNachImportDesRepository
     {
         static void Main(string[] args)
         {
-            // Eine Änderung
         }
     }
 }
